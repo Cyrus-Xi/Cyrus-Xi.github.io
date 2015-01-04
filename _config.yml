@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Cyrus Xi
+tagline:          An unexamined life is probably not worth living.
+url:              http://cyrusxi.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Cyrus Xi
+  url:            http://cyrusxi.com
+  email:          xi.cyrus@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
